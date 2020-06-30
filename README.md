@@ -1,2 +1,2 @@
 # gorilla-experiment-demo
-Source code for the experiment demo hosted in Gorilla
+Resources for the experiment hosted on [Gorilla](https://gorilla.sc/).
