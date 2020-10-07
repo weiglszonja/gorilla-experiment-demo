@@ -1,2 +1,3 @@
 # gorilla-experiment-demo
-Resources for the experiment hosted on [Gorilla](https://gorilla.sc/).
+
+Resources for the behavioral experiment hosted on [Gorilla](https://gorilla.sc/).
